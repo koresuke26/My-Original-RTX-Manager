@@ -32,11 +32,11 @@ Minecraft Bedrock Edition の RTX / PBR / Vibrant Visuals 環境を管理・診�
 
 ## ダウンロード
 
-最新版は GitHub Releases から配布します。
+## ダウンロード
 
-- Windows EXE版
-- Python版
+最新版はこちらからダウンロードできます。
 
+[My Original RTX Manager PUBLIC v1.0.5 をダウンロード](https://github.com/koresuke26/My-Original-RTX-Manager/releases/tag/v1.0.5)
 ## 技術概要
 
 My Original RTX Manager の設計思想や主要技術については、技術概要を公開しています。
